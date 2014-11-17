@@ -1,7 +1,11 @@
+Voorbeeld van vorig jaar
+
+
 BINGO
 =====
 
-Je opdrachtgever is de onderneming Bingo. Deze onderneming maakt spaarkaartsystemen die
+Je opdrachtgever is de onderneming Bingo. Deze onderneming maakt spaarkaarts
+ystemen die
 ze verkoopt aan horeca en kruidenierszaken. Hun nieuwste product is een spaarkaart die je in
 meerdere winkels kan gebruiken. Zo kan je punten
 sparen in de ene winkel en uit geven in een
